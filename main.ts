@@ -37,7 +37,7 @@ radio.onReceivedValue(function (name, value) {
 let RM_orientation = 0
 let LM_orientation = 0
 let correction = 0
-radio.setGroup(128)
+radio.setGroup(19)
 correction = 0.95
 LM_orientation = -1
 RM_orientation = 1
